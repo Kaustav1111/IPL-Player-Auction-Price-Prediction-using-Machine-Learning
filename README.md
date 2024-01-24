@@ -38,6 +38,9 @@ Evaluated model performance using metrics like
 3) accuracy for both training and testing sets.
 ## Model Performance:
 Mean Absolute Error: 4,455,447
+
 Mean Absolute Percentage Error: 18.77%
+
 Model accuracy for X_test: 81.23%
+
 Model accuracy for X_train: 87.46%
